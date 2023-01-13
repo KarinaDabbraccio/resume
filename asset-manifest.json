@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.80c4b82a.css",
+    "main.js": "/resume/static/js/main.8f749564.js",
+    "static/media/cook-9.jpg": "/resume/static/media/cook-9.b2791d45f7cf7f18f3f4.jpg",
+    "index.html": "/resume/index.html",
+    "main.80c4b82a.css.map": "/resume/static/css/main.80c4b82a.css.map",
+    "main.8f749564.js.map": "/resume/static/js/main.8f749564.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80c4b82a.css",
+    "static/js/main.8f749564.js"
+  ]
+}
